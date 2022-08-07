@@ -21,6 +21,7 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #395B64;
 }
 
 #gallery {
@@ -29,6 +30,7 @@ img {
     flex-direction: column;
     justify-content: center;
     height: 75vh;
+    background-color: #A5C9CA;
 }
 
 #gallery ul {
@@ -48,3 +50,4 @@ img {
     width: 75%;
     color: white;
 }
+
