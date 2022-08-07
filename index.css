@@ -22,6 +22,7 @@ img {
     justify-content: center;
     align-items: center;
     background-color: #395B64;
+    color: #E7F6F2;
 }
 
 #gallery {
@@ -39,7 +40,7 @@ img {
 }
 
 #gallery h2 {
-    color: skyblue;
+    color: #2C3333;
 }
 
 .tools {
@@ -48,6 +49,7 @@ img {
     border: 5px solid #333333;
     margin: 20px;
     width: 75%;
-    color: white;
+    color: #395B64;
+    border-radius: 8px;
 }
 
